@@ -1,0 +1,104 @@
+{
+    "answers": [
+        {
+            "qid": 25,
+            "retrieve": 4,
+            "category": "insurance"
+        },
+        {
+            "qid": 15,
+            "retrieve": 536,
+            "category": "insurance"
+        },
+        {
+            "qid": 44,
+            "retrieve": 440,
+            "category": "insurance"
+        },
+        {
+            "qid": 93,
+            "retrieve": 660,
+            "category": "finance"
+        },
+        {
+            "qid": 70,
+            "retrieve": 272,
+            "category": "finance"
+        },
+        {
+            "qid": 16,
+            "retrieve": 54,
+            "category": "insurance"
+        },
+        {
+            "qid": 30,
+            "retrieve": 435,
+            "category": "insurance"
+        },
+        {
+            "qid": 8,
+            "retrieve": 78,
+            "category": "insurance"
+        },
+        {
+            "qid": 40,
+            "retrieve": 591,
+            "category": "insurance"
+        },
+        {
+            "qid": 95,
+            "retrieve": 307,
+            "category": "finance"
+        },
+        {
+            "qid": 7,
+            "retrieve": 107,
+            "category": "insurance"
+        },
+        {
+            "qid": 83,
+            "retrieve": 155,
+            "category": "finance"
+        },
+        {
+            "qid": 10,
+            "retrieve": 32,
+            "category": "insurance"
+        },
+        {
+            "qid": 61,
+            "retrieve": 951,
+            "category": "finance"
+        },
+        {
+            "qid": 28,
+            "retrieve": 298,
+            "category": "insurance"
+        },
+        {
+            "qid": 96,
+            "retrieve": 435,
+            "category": "finance"
+        },
+        {
+            "qid": 9,
+            "retrieve": 62,
+            "category": "insurance"
+        },
+        {
+            "qid": 43,
+            "retrieve": 322,
+            "category": "insurance"
+        },
+        {
+            "qid": 81,
+            "retrieve": 671,
+            "category": "finance"
+        },
+        {
+            "qid": 64,
+            "retrieve": 706,
+            "category": "finance"
+        }
+    ]
+}
